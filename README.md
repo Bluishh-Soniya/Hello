@@ -1,2 +1,3 @@
 # Hello
-this is git repository
+This is git repository.
+Author - Soniya 
